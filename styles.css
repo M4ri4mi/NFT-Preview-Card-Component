@@ -124,11 +124,9 @@ a:hover {
 }
 
 
-
-
 .container:hover .eye {
+  cursor:pointer;
   opacity: 0.5;
 }
 
 
-/*
